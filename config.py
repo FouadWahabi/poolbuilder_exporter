@@ -1,0 +1,13 @@
+DB_PB_HOST = "127.0.0.1"
+DB_PB_USERNAME = "root"
+DB_PB_PASS = ""
+DB_PB_PORT = "3306"
+DB_PB_MASTER = "pb_master_old"
+DB_PB_DIALECT = "mysql+pymysql"
+
+DB_HB_HOST = "127.0.0.1"
+DB_HB_USERNAME = "postgres"
+DB_HB_PASS = "password"
+DB_HB_PORT = "5432"
+DB_HB_MASTER = "hbots"
+DB_HB_DIALECT = "postgresql+psycopg2"
